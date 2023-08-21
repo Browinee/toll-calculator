@@ -7,7 +7,8 @@ import (
 	"math/rand"
 	"net/http"
 
-	"github.com/fulltimegodev/tolling/types"
+	"toll-calculator/types"
+
 	"github.com/gorilla/websocket"
 )
 

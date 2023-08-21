@@ -2,8 +2,8 @@ package main
 
 import (
 	"time"
+	"toll-calculator/types"
 
-	"github.com/fulltimegodev/tolling/types"
 	"github.com/sirupsen/logrus"
 )
 
